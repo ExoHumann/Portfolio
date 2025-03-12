@@ -75,7 +75,7 @@ const greeting = {
             <AnimatedStyledTypewriter />
             <br></br>
             {/* &nbsp;<br />skilled in Java, Python, C++, C#, .NET, and Kotlin. Experienced in building web applications using MERN stack, mobile apps, system architecture, and database management. */}
-            <br></br>
+            
             </span>
     ),
     resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing",

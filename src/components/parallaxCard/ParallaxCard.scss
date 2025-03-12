@@ -1,10 +1,13 @@
 .parallax-card {
+    display: flex;
     position: relative;
     width: 100%; // Fill the container width
     height: 85%; // Fill the container height
     overflow: hidden;
     border-radius: 15px; // Optional: remove if you want no rounded corners
     transition: transform 0.2s ease-out;
+    justify-content: center;
+    overflow: visible;
 }
 
 .card__bg {
@@ -19,7 +22,7 @@
 
 .card__img {
     position: relative;
-    width: 100%;
-    height: auto;
+    width: auto;
+    height: 100%;
     object-fit: cover; // Ensures the image covers the container
 }

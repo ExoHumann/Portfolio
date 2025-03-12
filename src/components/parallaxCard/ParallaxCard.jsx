@@ -1,7 +1,7 @@
 import React, { useRef, useEffect } from "react";
 import "./ParallaxCard.scss";
 import krzys from "../../assets/images/krzys.png";
-import backgroundImg from "../../assets/images/background.jpg";
+import backgroundImg from "../../assets/images/background.png";
 
 const ParallaxCard = () => {
   const cardRef = useRef(null);
@@ -48,7 +48,7 @@ const ParallaxCard = () => {
   return (
     <div className="card parallax-card" ref={cardRef}>
       <div
-        className="card__bgg"
+        className="card__bg"
         style={{ backgroundImage: `url(${backgroundImg})` }}
       />
       <img className="card__img" src={krzys} alt="Parallax Foreground" />
