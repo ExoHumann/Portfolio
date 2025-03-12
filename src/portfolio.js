@@ -194,7 +194,7 @@ const workExperiences = {
     display: true,
     experience: [
         {
-            role: "Software Engineer",
+            role: "Ssoftware Engineer",
             company: "WSP",
             date: "2022 – 2023",
             desc: "Developed data solutions and improved system performance.",
