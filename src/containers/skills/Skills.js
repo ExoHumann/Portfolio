@@ -19,7 +19,7 @@ export default function Skills() {
                     <div className="greeting-image-div">
                         <img
                             alt="Animated GIF"
-                            src={require("../../assets/images/avento.gif")}
+                            src={require("../../assets/images/avento.webp")}
                         />
                     </div>
                 </Fade>
