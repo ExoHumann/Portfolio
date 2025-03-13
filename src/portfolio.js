@@ -255,7 +255,7 @@ const bigProjects = {
     subtitle: "Innovative solutions and startup ventures I helped build.",
     projects: [
         {
-            image: require("./assets/images/chess.gif"),
+            image: require("./assets/images/chess.webp"),
             projectName: "Chess Engine",
             projectDesc:
                 "An advanced chess engine leveraging AI techniques including reinforcement learning, MiniMax search, and Alpha-Beta pruning. It features heuristic ordering and transposition tables to support strategic gameplay.",
@@ -267,7 +267,7 @@ const bigProjects = {
             ]
         },
         {
-            image: require("./assets/images/7solitary.gif"),
+            image: require("./assets/images/7solitary.webp"),
             projectName: "Solitaire Solver",
             projectDesc:
                 "An intelligent Solitaire solver powered by TensorFlow, deep learning, and AI. It uses computer vision for real-time card detection and applies optimized game logic for improved moves.",
@@ -303,7 +303,7 @@ const bigProjects = {
             ]
         },
         {
-            image: require("./assets/images/NemSport2.gif"),
+            image: require("./assets/images/nemsport.webp"),
             projectName: "Nemsport Android App",
             projectDesc:
                 "A sports management app developed in Kotlin, featuring real-time player coordination and intuitive match scheduling. It demonstrates strong mobile architecture and user-friendly design.",
@@ -319,7 +319,7 @@ const bigProjects = {
             ]
         },
         {
-            image: require("./assets/images/Matador.gif"),
+            image: require("./assets/images/matador.webp"),
             projectName: "Monopoly Game",
             projectDesc:
                 "A dynamic Monopoly game developed using Java and the MVC model. It offers interactive property management and an engaging user interface for competitive gameplay.",
